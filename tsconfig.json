@@ -3,9 +3,12 @@
     "sourceMap": true
   },
   "files": [
-    "hey_there.ts",
-    "variables.ts",
-    "stringinterpolation.ts",
-    "types.ts",
+    // "hey_there.ts",
+    // "variables.ts",
+    // "stringinterpolation.ts",
+    // "types.ts",
+    // "alias_type.ts",
+    // "union_types.ts",
+    "arithmetic_operators.ts",
   ]
 }
