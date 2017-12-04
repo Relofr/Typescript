@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "hey_there.ts",
+    "variables.ts",
+    "stringinterpolation.ts",
+    "types.ts",
+  ]
+}
