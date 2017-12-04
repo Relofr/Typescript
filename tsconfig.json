@@ -9,6 +9,9 @@
     // "types.ts",
     // "alias_type.ts",
     // "union_types.ts",
-    "arithmetic_operators.ts",
+    // "arithmetic_operators.ts",
+    // "conditionals.ts",
+    // "conditional_operators.ts",
+    "compound_conditionals.ts",
   ]
 }
