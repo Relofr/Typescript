@@ -17,7 +17,8 @@
     // "functions.ts",
     // "arguments.ts",
     // "arrow_function.ts",
-    "declarations_vs_expressions.ts",
-    
+    // "immediately_invoked_function.ts",
+    // "immediately_invoked_function_arguments.ts",
+    "classes.ts",
   ]
 }
