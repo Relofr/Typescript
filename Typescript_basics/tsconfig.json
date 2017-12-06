@@ -19,6 +19,10 @@
     // "arrow_function.ts",
     // "immediately_invoked_function.ts",
     // "immediately_invoked_function_arguments.ts",
-    "classes.ts",
+    // "classes.ts",
+    // "inheritance.ts",
+    // "objects.ts",
+    // "interfaces.ts",
+    "function_interfaces.ts",
   ]
 }
